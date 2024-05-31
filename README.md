@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronNovakDev
 - 👀 I’m interested in creating groovy and educational applications to help everyone!
-- 🌱 I’m currently learning Tableau and AWS Cloud certified Practitioner course
+- 🌱 I’m currently learning PHP Laravel, React & AWS Terraform.
 - ✨ Aspiring to make a difference in the digital world with my background in the Electrical Trades Industry!
 
 <!---
